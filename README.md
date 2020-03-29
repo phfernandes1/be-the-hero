@@ -24,5 +24,6 @@
 <img src="/carregamento_mobile.png">
 <h4 align="center">Veja os casos de todas as ONG's</h4>
 <img src="/inicial_mobile.png">
-<h4 align="center">Veja detalhes do caso escolhido e entre em contato via Whatsapp ou email</h4>
+<h4 align="center">Veja detalhes do caso escolhido e entre em contato via Whatsapp ou email e BE THE HERO!</h4>
 <img src="/detalhes_mobile.png">
+
