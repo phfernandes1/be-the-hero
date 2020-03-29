@@ -21,9 +21,9 @@
 
 <h3 align="center">Aplicativo Mobile</h3>
 <h4 align="center">Tela de carregamento</h4>
-<img src="/carregamento_mobile.png">
+<p align="center"><img src="/carregamento_mobile.png"></p>
 <h4 align="center">Veja os casos de todas as ONG's</h4>
-<img src="/inicial_mobile.png">
-<h4 align="center">Veja detalhes do caso escolhido e entre em contato via Whatsapp ou email e BE THE HERO!</h4>
-<img src="/detalhes_mobile.png">
+<p align="center"><img src="/inicial_mobile.png"></p>
+<h4 align="center">Veja detalhes do caso escolhido, entre em contato via Whatsapp ou E-mail e BE THE HERO!</h4>
+<p align="center"><img src="/detalhes_mobile.png"></p>
 
